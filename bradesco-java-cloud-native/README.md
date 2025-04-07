@@ -15,4 +15,3 @@ Consulte o arquivo `LICENSE` para mais detalhes sobre a licença.
 
 ## Como Usar
 
-//to do
